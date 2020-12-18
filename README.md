@@ -1,3 +1,0 @@
-# ExitRoom
-TextAdventure
-.....
