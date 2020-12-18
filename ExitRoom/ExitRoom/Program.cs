@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Where_am_I
 {
-
+    //Veruchen wir das mal
+    //Martin will SPIELEN
     class Opening
     {
         public static string name;
